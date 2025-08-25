@@ -45,17 +45,17 @@ Finally, an end-to-end **Power BI Dashboard** was built with advanced **DAX meas
 ## 📷 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard_overview.png)
+
 <img width="1917" height="995" alt="Screenshot -Overall" src="https://github.com/user-attachments/assets/ff7e9e1f-f840-4ae3-bb8b-7a5be2e2772b" />
 
 
 ### Cancellation Analysis
-![Cancellation Analysis](images/cancellation_analysis.png)
+
 <img width="1919" height="996" alt="Screenshot - Cancellation Analysis" src="https://github.com/user-attachments/assets/0840671e-887d-4588-b057-adb1e58548dc" />
 
 
 ### Revenue Insights
-![Revenue](images/revenue.png)
+
 <img width="1919" height="996" alt="Screenshot -Revenue Insights" src="https://github.com/user-attachments/assets/b24690db-4ee2-4a9b-904b-4c2d96887d51" />
 
 ---
