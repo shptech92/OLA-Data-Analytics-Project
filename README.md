@@ -84,7 +84,7 @@ Finally, an end-to-end **Power BI Dashboard** was built with advanced **DAX meas
 ---
 
 ## 🤝 Connect
-If you find this project useful, feel free to ⭐ the repo and connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/souvik-haldar/)).
+If you find this project useful, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-haldar/).
 
 ---
 
